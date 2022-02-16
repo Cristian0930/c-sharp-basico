@@ -1,0 +1,14 @@
+C:\Users\cl827\source\repos\SquareArea\SquareArea\bin\Debug\net6.0\SquareArea.exe
+C:\Users\cl827\source\repos\SquareArea\SquareArea\bin\Debug\net6.0\SquareArea.deps.json
+C:\Users\cl827\source\repos\SquareArea\SquareArea\bin\Debug\net6.0\SquareArea.runtimeconfig.json
+C:\Users\cl827\source\repos\SquareArea\SquareArea\bin\Debug\net6.0\SquareArea.dll
+C:\Users\cl827\source\repos\SquareArea\SquareArea\bin\Debug\net6.0\ref\SquareArea.dll
+C:\Users\cl827\source\repos\SquareArea\SquareArea\bin\Debug\net6.0\SquareArea.pdb
+C:\Users\cl827\source\repos\SquareArea\SquareArea\obj\Debug\net6.0\SquareArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cl827\source\repos\SquareArea\SquareArea\obj\Debug\net6.0\SquareArea.AssemblyInfoInputs.cache
+C:\Users\cl827\source\repos\SquareArea\SquareArea\obj\Debug\net6.0\SquareArea.AssemblyInfo.cs
+C:\Users\cl827\source\repos\SquareArea\SquareArea\obj\Debug\net6.0\SquareArea.csproj.CoreCompileInputs.cache
+C:\Users\cl827\source\repos\SquareArea\SquareArea\obj\Debug\net6.0\SquareArea.dll
+C:\Users\cl827\source\repos\SquareArea\SquareArea\obj\Debug\net6.0\ref\SquareArea.dll
+C:\Users\cl827\source\repos\SquareArea\SquareArea\obj\Debug\net6.0\SquareArea.pdb
+C:\Users\cl827\source\repos\SquareArea\SquareArea\obj\Debug\net6.0\SquareArea.genruntimeconfig.cache

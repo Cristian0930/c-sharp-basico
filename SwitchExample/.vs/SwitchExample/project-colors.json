@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0e6a274d-9ffb-4077-8b31-8ca00fc7651f": {
+      "ProjectGuid": "0e6a274d-9ffb-4077-8b31-8ca00fc7651f",
+      "DisplayName": "SwitchExample",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

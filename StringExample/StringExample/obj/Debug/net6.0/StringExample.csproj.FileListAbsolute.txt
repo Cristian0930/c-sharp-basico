@@ -1,0 +1,15 @@
+C:\Users\cl827\source\repos\StringExample\StringExample\bin\Debug\net6.0\StringExample.exe
+C:\Users\cl827\source\repos\StringExample\StringExample\bin\Debug\net6.0\StringExample.deps.json
+C:\Users\cl827\source\repos\StringExample\StringExample\bin\Debug\net6.0\StringExample.runtimeconfig.json
+C:\Users\cl827\source\repos\StringExample\StringExample\bin\Debug\net6.0\StringExample.dll
+C:\Users\cl827\source\repos\StringExample\StringExample\bin\Debug\net6.0\ref\StringExample.dll
+C:\Users\cl827\source\repos\StringExample\StringExample\bin\Debug\net6.0\StringExample.pdb
+C:\Users\cl827\source\repos\StringExample\StringExample\obj\Debug\net6.0\StringExample.csproj.AssemblyReference.cache
+C:\Users\cl827\source\repos\StringExample\StringExample\obj\Debug\net6.0\StringExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cl827\source\repos\StringExample\StringExample\obj\Debug\net6.0\StringExample.AssemblyInfoInputs.cache
+C:\Users\cl827\source\repos\StringExample\StringExample\obj\Debug\net6.0\StringExample.AssemblyInfo.cs
+C:\Users\cl827\source\repos\StringExample\StringExample\obj\Debug\net6.0\StringExample.csproj.CoreCompileInputs.cache
+C:\Users\cl827\source\repos\StringExample\StringExample\obj\Debug\net6.0\StringExample.dll
+C:\Users\cl827\source\repos\StringExample\StringExample\obj\Debug\net6.0\ref\StringExample.dll
+C:\Users\cl827\source\repos\StringExample\StringExample\obj\Debug\net6.0\StringExample.pdb
+C:\Users\cl827\source\repos\StringExample\StringExample\obj\Debug\net6.0\StringExample.genruntimeconfig.cache

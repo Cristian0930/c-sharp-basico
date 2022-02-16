@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e355caef-40eb-4942-865e-8708c22d1b38": {
+      "ProjectGuid": "e355caef-40eb-4942-865e-8708c22d1b38",
+      "DisplayName": "NumericCalculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
